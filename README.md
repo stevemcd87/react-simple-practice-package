@@ -4,4 +4,4 @@
 ## Installation
 Run the following command:
 - `npm install react-simple-practice-package`
-- `import TextInput from "react-simple-practice-package" `
+- `import { TextInput } from "react-simple-practice-package" `
